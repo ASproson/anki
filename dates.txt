@@ -1,0 +1,16 @@
+昨年 / さくねん,sakunen / Last year		
+今年 / ことし,kotoshi / This year		
+来年 / らいねん,rainen / Next year		
+先週 / せんしゅう,senshuu / Last week		
+今週 / こんしゅう,konshuu / This week		
+来週 / らいしゅう,raishuu / Next week		
+昨日 / きのう,kinou / Yesterday		
+今日 / きょう,kyou / Today		
+明日 / あした,ashita / Tomorrow		
+日曜日 / にちようび,nichiyoubi / Sunday		
+月曜日 / げつようび,getsuyoubi / Monday		
+火曜日 / かようび,kayoubi / Tuesday		
+水曜日 / すいようび,suiyoubi / Wednesday		
+木曜日 / もくようび,mokuyoubi / Thursday		
+金曜日 / きんようび,kin'youbi / Friday		
+土曜日 / どようび,doyoubi / Saturday		

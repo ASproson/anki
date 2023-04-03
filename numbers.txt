@@ -1,0 +1,46 @@
+一 / いち		ichi / One
+二 / に		ni / Two
+三 / さん		san / Three
+四 / し		shi/Four / 
+五 / ご		go / Five
+六 / ろく		roku / Six
+七 / しち/なな		shichi/nana / Seven
+八 / はち		hachi / Eight
+九 / きゅう/く		kyuu/ku / Nine
+十 / じゅう		juu / Ten
+二十 / にじゅう		nijuu / Twenty
+三十 / さんじゅう		sanjuu / Thirty
+四十 / しじゅう/よんじゅう		shijuu/yonjuu / Forty
+五十 / ごじゅう		gojuu / Fifty
+六十 / ろくじゅう	,	rokujuu / Sixty
+七十 / しちじゅう/ななじゅう	,	shichijuu/nanajuu / Seventy
+八十 / はちじゅう	,	hachijuu / Eighty
+九十 / きゅうじゅう	,	kyuujuu / Ninety
+百 / ひゃく	,	hyaku / Hundred
+二百 / にひゃく	,	nihyaku / Two hundred
+三百 / さんびゃく	,	sanbyaku / Three hundred
+四百 / よんひゃく	,	yonhyaku / Four hundred
+五百 / ごひゃく	,	gohyaku / Five hundred
+六百 / ろっぴゃく	,	ropphyaku / Six hundred
+七百 / ななひゃく	,	nanahyaku / Seven hundred
+八百 / はっぴゃく	,	happyaku / Eight hundred
+九百 / きゅうひゃく	,	kyuuhyaku / Nine hundred
+千 / せん	,	sen / One thousand
+二千 / にせん	,	nisen / Two thousand
+三千 / さんぜん	,	sanzen / Three thousand
+四千 / よんせん	,	yonsen / Four thousand
+五千 / ごせん	,	gosen / Five thousand
+六千 / ろくせん	,	rokusen / Six thousand
+七千 / ななせん	,	nanasen / Seven thousand
+八千 / はっせん	,	hassen / Eight thousand
+九千 / きゅうせん	,	kyuusen / Nine thousand
+一万 / いちまん	,	ichiman / Ten thousand
+二万 / にまん	,	niman / Twenty thousand
+三万 / さんまん	,	sanman / Thirty thousand
+四万 / よんまん	,	yonman / Fourty thousand
+五万 / ごまん	,	goman / Fifty thousand
+六万 / ろくまん	,	rokuman / Sixty thousand
+七万 / ななまん	,	nanaman / Seventy thousand
+八万 / はちまん	,	hachiman / Eighty thousand
+九万 / きゅうまん	,	kyuuman / Ninety thousand
+十万 / じゅうまん	,	juumann / A hundred thousand

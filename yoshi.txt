@@ -1,0 +1,112 @@
+#separator:tab
+#html:true
+
+お母さん	Mother
+お父さん	Father
+お兄さん	Brother / Onii-san
+お姉さん	Sister / Onee-san
+彼女	Her / kanojo
+彼	Him / かれ
+マクドナルド	McDonalds
+パイナップル	Pineapple
+食べました	Have eaten something
+食べます	Eating something
+食べません	Not Eating
+上司 / じょうし	Supervisor / Manager
+同僚 / どうりょう	Colleagues
+部下 / ぶか	Junior
+社長 / しゃちょう	President / CEO
+副社長 / ふくしゃちょう	Vice President
+仕事 / しごと	Job / work / employment
+会社員 / かいしゃいん	Employee
+会社 / かいしゃ	Company / Corporation / Business
+でんわ	Telephone
+ばんごお	Number
+元気ですか?	Are you well?
+はい、元気です	Yes, I am well
+はい、元気ですよ	Yes, I am well [informal]
+はい、おかげさまで	Yes, I am well thanks to you
+そうですね。。。ちょっと 疲れて います	Hmm.. I'm a little tired
+そうですね。。。少し 眠いです	Hmm.. I'm a little sleepy
+疲れる	tsukareru - to get tired, or become exhausted
+眠い	nemui, sleepy/drowsy, often used for being tired or wanting to sleep
+風邪気味	kaze gimi, getting a tendancy towards a cold
+熱	Netsu, fever/temperature
+お腹	Onaka, stomach/belly
+痛い	Itai, pain
+頭 atama	Head
+思います	Omoimasu, to think
+今週末何をしますか?	What are you going to do this weekend?
+おいしいですよ？	Tasty, right?
+まずいですよ？	Tastes bad, right?
+今日はいい天気ですね	Today is nice weather, right?
+このパン	This bread in my possession
+これ	This is
+美しい	Utsukushii
+この	My
+その	Close to you, far from me
+あの	Far from both of us
+あめ	Sweets/candy
+イルカ	Dolphin
+うさぎ	Rabbit
+えび	Ebi
+おに	Oni/Demon
+かに	Crab
+きりん	Giraffe
+くじら	Whale
+けしごむ	Eraser
+こあら	Koala
+さめ	Shark
+しか	Deer
+すいか	Watermelon
+せめ	Cicada
+そうじき	Hoover
+たこ	Octopus
+ちきゅう	Earth
+^つき	Moon
+てんとうむし	Ladybird
+とら	Tiger
+なす	Eggplant
+にわとり	Chicken
+ぬいぐるみ	Stuffed toy
+ねこ	Cat
+ノート	Notebook
+はち	Bee
+ひまわり	Flower
+ふね	Boat
+へび	Snake
+ほたる	Cicada
+まいく	Mic
+みかん	Orange
+むしめがね	Magnifying glass
+めだか	Fish	
+もも	Peach
+やま 	Mountain
+ゆきだるま	Chuuki darama, snowman
+よっとYacht
+らいおん	Lion
+りす	Squirrel
+ルビー	Ruby
+れもん	Lemon
+ろけっと	Rocket
+晴れ / はれ	sunny
+雨がふる	It's raining/rain falls
+えびの天ぷら	Shrimp tempura
+雪がふる	It's snowing/snow falls
+虫　/　むし	insect
+魚　/ さかな	Fish
+庭 / にわ	garden
+鳥 / とり	Bird
+雲	Kumo cloud
+天気	Weather
+曇り / くもり	cloudy
+暑い / あつ	hot
+暖かい / あたたかい	warm
+涼しい / すずしい	cool
+寒い / さむい	Cold
+左　/　ひだり	left
+右　/　みぎ	right
+上　/　うえ	above
+下　/　した	below
+前　/　まえ	in front
+後　/　うしろ	behind
