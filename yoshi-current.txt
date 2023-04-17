@@ -1,11 +1,11 @@
-今日は2023年4月１６日
-What is the full date today? 年/月/日
-私　は　イギリス から きました, I come from England
-マリサさん は アメリカ から きました, Melissa comes from America
-昨日の夜 手(て)　を 洗って お好み焼き(おこのみやき) を たべました, Last night i washed my hands and ate okonomiyaki
-イギリスでは 今日は すごく 暑いです, Today is very hot in the UK
-今日が誕生日(たんじうび)です, Today is my birthday
-まだ寒いです, It's still cold 
-日本では 今、サクラ　が 咲(さ)いています, In Japan cherry blossoms are blooming now
-風呂 (ふろ), Bath
-手 (て), Hands
+私はイギリスからきました	I come from England
+マリサさんはアメリカからきました	Melissa comes from America
+昨日の夜手(て)を洗ってお好み焼き(おこのみやき)をたべました	Last night I washed my hands and ate okonomiyaki
+イギリスでは今日はすごく暑いです	Today is very hot in the UK
+今日が誕生日(たんじゅうび)です	Today is my birthday
+まだ寒いです	It's still cold
+日本では,今、サクラが咲(さ)いています	In Japan cherry blossoms are blooming now
+風呂(ふろ)	Bath
+手(て)	Hands
+今日は2023年4月１６日	Date
+What is the full date today?	年/月/日
