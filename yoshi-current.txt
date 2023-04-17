@@ -1,33 +1,11 @@
-春 はる	Spring
-夏 なつ	Summer
-秋 あき	Autumn/Fall
-冬 ふゆ	Winter
-季節 きせつ	Season
-きょうは何の日ですか	What day is today? 何 = なん, 日 = ひ
-きょうは何曜日(なんようび)ですか	What day of the week is today?
-きょう　何をしますか	What are you going to do today? 何 = なん
-なにもしません	I will not do anything
-昼(ひる)	Afternoon
-夜(よる)	Night
-朝(あさ)	Morning
-食べる	Present positive (I eat)
-食べます	Present positive (I eat)
-食べました	Past positive (I ate)
-食べた	Ta-form, past positive (I ate)
-食べません	Present negative (I do not eat)
-食べませんでした	Past negative (I did not eat)
-食べて	Te-form (used for verb conjugation)
-When to use te form?	Connect two sentences or verb phrases together/make a request (食べてください)
-When to use ta form?	To express past tense or indirect quotations
-行く(いく)	To go
-来る(くる)	To come
-する	To do
-見る(みる)	To see/watch/look
-言う(いう)	To say/tell
-飲む(のむ)	To drink
-寝る(ねる)	To sleep
-読む(よむ)	To read
-書く(かく)	To write
-聞く(きく)	To listen/hear/ask
-話す(はなす)	To speak/talk
-する	To do
+今日は2023年4月１６日
+What is the full date today? 年/月/日
+私　は　イギリス から きました, I come from England
+マリサさん は アメリカ から きました, Melissa comes from America
+昨日の夜 手(て)　を 洗って お好み焼き(おこのみやき) を たべました, Last night i washed my hands and ate okonomiyaki
+イギリスでは 今日は すごく 暑いです, Today is very hot in the UK
+今日が誕生日(たんじうび)です, Today is my birthday
+まだ寒いです, It's still cold 
+日本では 今、サクラ　が 咲(さ)いています, In Japan cherry blossoms are blooming now
+風呂 (ふろ), Bath
+手 (て), Hands
