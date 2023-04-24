@@ -1,11 +1,9 @@
-私はイギリスからきました	I come from England
-マリサさんはアメリカからきました	Melissa comes from America
-昨日の夜手(て)を洗ってお好み焼き(おこのみやき)をたべました	Last night I washed my hands and ate okonomiyaki
-イギリスでは今日はすごく暑いです	Today is very hot in the UK
-今日が誕生日(たんじゅうび)です	Today is my birthday
-まだ寒いです	It's still cold
-日本では,今、サクラが咲(さ)いています	In Japan cherry blossoms are blooming now
-風呂(ふろ)	Bath
-手(て)	Hands
-今日は2023年4月１６日	Date
-What is the full date today?	年/月/日
+かくなる	Things have come to this
+暖かくなって来ました(あたたかくなってきました)	It is getting warmer
+なって来る(なってくる)	To become/gradually become
+暖かくなりましたか	Has it become warm?
+２日前から(ににちまえから)	Two days have come and gone
+今月は何月です(いまつはなんがつです)	What month is it?
+明後日(あさって)	The day after tomorrow
+How to say: 1月	いちがつ
+When to use gatsu/getsu?	Gatsu for months in terms of number, getsu for the word
