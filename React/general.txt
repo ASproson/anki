@@ -1,0 +1,14 @@
+What does useState do?, State lets a component remember information like user input
+What does useContext do?, Contexts lets a component receive information from distant parents without passing it as props. This is useful for config type selections; such as light/dark mode which would need to be read by every page component
+What does useRef do?, Regs let a component hold information that isn't used for rendering; like a DOM node. Unlike with state updating a  ref does not re-render the component
+What do effects do?, Effects let a component connect to and synchronize with external systems. Effects - like refs - are an 'escape hatch' from the React paradigm. Don't use Effects to orchestrate the data flow
+What are performance hooks?, A common way to optimize re-rendering performance is to skip unncessary work. For example we can tell React to reuse a cached calculation or skip a re-render if data has not changed since the previous render. useMemo lets you cache the result of a calculation and useCallback lets us cache a function
+What are React Hooks used for?, They are used for adding state and behavior to components. They allow you to reuse logic across different components which makes the code base more modular and easier to maintain
+What are the four types of hooks?, State hooks & performance hooks & effect hooks & ref hooks
+What is the purpose of state hooks?,  State hooks allow us to store information within a component and allow us to update that information and trigger re-renders when necessary
+How are Ref hooks used?, To store information that isn't used for rendering so that we can persist a value between renders efficiently
+What is the purpose of performance hooks?, They are specifically designed to optimize performance by reducing unncessary re-renders and prioritizing updates that are most important to the user
+
+
+
+
