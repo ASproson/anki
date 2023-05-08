@@ -1,1 +1,4 @@
 What is the difference between useMemo and useCallBack?, useMemo calls the function and caches the result; useCallback caches the function itself
+What is memoization?, To memoize something is to cache or store something. In the context of React and useCallback/useMemo this is to cache a function or the result of a function respectively
+Explain the purpose of useCallBack, useCallback caches a function between re-renders until its dependencies change. This allows us to optimize the performance of our app when components rely on callbacks as props
+When should we use useCallback?, For functions that are expensive to create or functions that are passed down as props. For other functions it's generally better to rely on React's default behavior
