@@ -1,0 +1,3 @@
+What is useContext?, useContext is a React Hook that lets us read and subscribe to context from our component. It allows us to store information in a globally accessible place in our app
+Does the context contain data?, Context itself does not hold the information, but rather it represents the kind of information you can provide or read from other components
+What is the state of the data inside of the context?, The context data is always kept up-to-date as React automatically re-renders components that read some context if it changes
