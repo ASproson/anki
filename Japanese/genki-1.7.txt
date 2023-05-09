@@ -1,0 +1,4 @@
+おなまえわ？, What is your name?
+ごしゅっしんわ？, Where do you come from?
+おしごとは？, What is your occupation?
+
