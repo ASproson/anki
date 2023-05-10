@@ -1,0 +1,3 @@
+What is useDeferredValue?	It is a React hook that lets us defer updating a part of the UI
+How is useDeferredValue used?	const [query, setQuery] = useState(''); const deferredQuery = useDeferredValue(query);
+Why use useDeferredValue?	Let's say we're letting users search a list via input; rather than show loading each time we can show the previous results until the new results load in. Additionally if deferredQuery is true we can show that div with a lower level of opacity to indicate that it is stale
