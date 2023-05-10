@@ -1,0 +1,5 @@
+What is useDebugValue?, It is a React hook that lets us add a label to a custom hook in React dev tools
+What happens when we don't provide formatting?, The original value will be displayed
+Where do we use useDebugValue?, At the top of hook like so: useDebugValue(isOnline ? 'Online' : 'Offline');
+When should we add useDebugValue?, It's most valuable for custom hooks that are part of shared libraries and that have complex internal data structures that are difficult to inspect
+When passing a formatting function into useDebugValue when it is called?, Only when inspected; this allows us to avoid running expensive formatting logic until that point
