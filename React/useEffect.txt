@@ -1,0 +1,4 @@
+What is useEffect?, It is a React hook that allows us to synchronize with an external system such as an API or animation library
+Explain the setup part of useEffect, The setup is the effect's logic. It may also return an optional cleanup function. When the component is added to the DOM React runs this setup function. After every re-render with changed dependencies React will run the cleanup function first with the old values and then run the setup function with new values. Once the component is  removed from the DOM react will run the cleanup function
+When is useEffect not used?, If we're not trying to sync with an external system - we likely don't need an effect!
+Are useEffects client based?, Yes; they don't run during server rendering
