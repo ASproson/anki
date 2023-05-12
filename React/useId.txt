@@ -1,0 +1,5 @@
+What is useId?, A React hook for generating unique IDs that can be passed to accessibility attributes
+Can useId be used as keys for lists?, No - keys should be generated from our data
+When should we use useId?, For HTML accessibility attributes like aria-describedby that let us specify that two tags are related to each other. For example; an input is often described by another element. Rather than hard coding this we should generated a unique id using useId and pass that
+Why should we use useId for accessibility attributes?, A component may be rendered more than once on the page but IDs have to be unique
+What if we have several related html elements; how can we use useId then?, We can use useId to generate a constant prefix then append something like '{id + '-lastName'}. This way we can avoid calling useId for every single element that needs a unique ID
