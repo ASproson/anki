@@ -1,0 +1,6 @@
+What is the pattern of creating a major scale?; Tone, Tone, Semitone, Tone, Tone, Tone, Semitone, Tone
+What is the Circle of Fifths?; When ascending a major scale by five whole notes, always sharpen the 7th to fit the major scale formula
+What is another word for 'sharp key' major scales?; The Circle of Fifths
+What are all the notes in a C major scale?; C D E F G A B C
+What are all the notes in a G major scale?; G A B C D E F# G
+What are all the notes in a A major scale?; A B C# D E F G# A
