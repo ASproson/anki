@@ -1,0 +1,12 @@
+What is a major third (5)?; Four half-steps up from the root
+What is a minor third (3)?; Three half-steps up from the major third
+What is a major triad?; A whole root followed ba major third and a minor third
+What is a diminished triad?; Stacking two minor thirds on top of each other
+How to build a diminished triad?; Three half steps up from root plus another three half steps
+What is major chord?; major third + minor third === major
+What is a minor chord?; minor third + major third === minor
+What is a diminished chord?; minor third + minor third === diminished
+What is a augmented chord?; major third + major third === augmented 
+
+
+
