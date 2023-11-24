@@ -7,6 +7,7 @@ What is major chord?; major third + minor third === major
 What is a minor chord?; minor third + major third === minor
 What is a diminished chord?; minor third + minor third === diminished
 What is a augmented chord?; major third + major third === augmented 
-
-
+What is a sus chord?; Where the 3 isn't present, if is present it takes precedent
+What sus chord is this Csus?; If it just says Csus, it's Csus4 because its far more common
+What if a third is present but so are a 2 or 4?; 2 or 4 are 'flavor' notes but become 9 or 11 to represent their relative lack of importance
 
