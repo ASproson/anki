@@ -1,14 +1,15 @@
-What is a major third (5)?; Four half-steps up from the root
-What is a minor third (3)?; Three half-steps up from the major third
-What is a major triad?; A whole root followed ba major third and a minor third
-What is a diminished triad?; Stacking two minor thirds on top of each other
-How to build a diminished triad?; Three half steps up from root plus another three half steps
-What is major chord?; major third + minor third === major
-What is a minor chord?; minor third + major third === minor
-What is a diminished chord?; minor third + minor third === diminished
-What is a augmented chord?; major third + major third === augmented 
-What is a sus chord?; Where the 3 isn't present, if is present it takes precedent
-What sus chord is this Csus?; If it just says Csus, it's Csus4 because its far more common
-What if a third is present but so are a 2 or 4?; 2 or 4 are 'flavor' notes but become 9 or 11 to represent their relative lack of importance, chords are defined by their third or lack thereof
-What is a 7th chord?; Another third that we stack on top of our minor/major triad (take last note go up 4 half steps)
+How many half steps up from the root to get the major third?; 4 half steps
+How many half steps up from the major third to get the minor third?; 3 half steps
+What is a major triad?; A root + a major third + a minor third [1, 3, 5]
+What is a minor triad?; A root + a minor third + a major third [1, 3, 5]
+How many half steps to get to our fifth from the root?; 7 half steps
+What is a sus chord?; A chord where no third is present
+What type of chord comprises of a minor third + minor third?; A diminished chord
+What type of chord comprises of major third + major third?; An augmented chord
+What type of chord comprises of a 2 or 4 without a three?; A sus chord, if a 3 is present it takes precedence and 2 or 4 becomes 7/9/11 to lessen their importance [1, 2, 5] / [1, 4, 5]
+What do sus chords sound like?; More open and dream like
+If a chord says Csus, whats the third?; [1, 4, 5] because the 4 is far more common
+How to find the 4th of any chord?; Find the 5, go down a whole step
+
+
 
