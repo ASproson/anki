@@ -2,4 +2,4 @@ What is a relative minor also known as?; Natural minor/Aeolian mode
 How do we find the relative minor of any major scale?; Ascend 6 notes up the major scale and begin a new scale from there
 What is the relative minor of C major?; A minor as we ascend 6 whole notes up the scale
 What is the relative minor of G major?; E minor as we ascend 6 whole notes up the scale
-What is the pattern of creating a natural minor scale?; Tone, Semitone, Tone, Tone, Semitone, Tone, Tone
+What is the pattern of creating a natural minor scale?; 2-1-2-2-1-2-2

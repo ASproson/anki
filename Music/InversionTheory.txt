@@ -1,4 +1,7 @@
 Do the order in which we play the notes change the chord?; No, regardless of note order a D will always be a D
 What is an inversion?; An inversion is when the root of chord is removed and stacked on top/placed elsewhere 
 Why are inversions important?; For song writing they're not, but for arranging they are
-When should we use inversions for song writing?; We can let the bass play non-root notes of the current chord, this can creat interesting movement
+When should we use inversions for song writing?; We can let the bass play non-root notes of the current chord, this can create interesting movement
+What is no inversion?; When the root note is the lowest and not moved
+What is the first inversion?; When the root is made the highest note
+What is the second inversion?; When the root note is in the middle
