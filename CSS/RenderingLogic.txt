@@ -1,0 +1,9 @@
+What is the defining feature of positioned layout?; It's that items can overlap, by contrast Flow layout tries very hard to make sure that multiple elements never occupy the same pixels
+How do we opt in position layout and what are its properties?; position: relative/absolute/fixed/sticky
+What effect does position relative have?; It enables top/left/right/bottom properties on our element and allows us to shift the element around /relative/ to its natural position within the parent
+What is the big difference between position and margin?; Position does not impact the layout of other elements
+What happens when a positioned block item doesn't have a specified width and left is used?; If we were using margin-left it would resize to fit inside the parent, but if its positioned then it will be lifted out of the flow, overflow its parent, and not be resized 
+Describe position and margin in a single sentence; Position lets us move items around independently of other elements. Margin remains context-aware and is dependent on other elements
+What is the difference between relative and absolute positioning?; Relative allows us to position an element in relation to its parent element, whereas absolute removes the element from the Flow layout entirely. Instead, absolute elements are adjusted based on their container, not their in-flow position
+What happens when a container with a border has a child in it that has a w/h, and we toggle position absolute?; The parent container shrinks down as the absolute element is removed from the flow
+How would we center an element using absolute?; inset: 0, margin: auto
