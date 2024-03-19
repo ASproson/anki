@@ -1,0 +1,4 @@
+What is overflow: auto ideal?; When we know an element might overflow
+When should we use overflow: auto?; When we want an element to have its own scrollbar if the content doesn't fit
+When should we use overflow: hidden?; For artistic purposes, such as decorative elements
+
