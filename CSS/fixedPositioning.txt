@@ -1,0 +1,4 @@
+What is the difference between fixed and absolute?; Fixed can only be contained by the viewport
+What is the main advantage to fixed-position elements?; They're immune to scrolling
+How can we center a fixed element?; Using the same trick with absolute, margin: auto + top/left/right/bottom: 0
+
